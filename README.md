@@ -1,0 +1,1 @@
+# napcode.blog.TestFairy-ToCompileOrNotToCompile
